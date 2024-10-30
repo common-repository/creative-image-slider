@@ -1,0 +1,63 @@
+.gspeech_pro {
+	
+}
+.size_container_plugin {
+position: relative;
+width: 75px;
+height: 20px;
+}
+.size_input_plugin {
+display: block;
+height: 22px;
+padding: 3px;
+margin: 0;
+font-weight: bold;
+color: #666;
+text-align: center;
+font-size: 11px;
+width: 33px;
+border-radius: 4px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+outline: none;
+border: 1px solid #bbb;
+}
+.size_input_plugin:hover {
+	border: 1px solid #999;
+	background-color: #fffcd6;
+}
+.size_arrows_plugin {
+display: block;
+position: absolute;
+background: transparent url("../images/bg_size_arrows.png") 2px 1px no-repeat;
+width: 14px;
+height: 23px;
+left: 37px;
+top: 1px;
+cursor: pointer;
+}
+.size_up_plugin {
+	width: 14px;
+	height: 12px;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	cursor: pointer;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+.size_up_plugin:hover,.size_down_plugin:hover {
+	box-shadow: inset 0 0 10px #bbb;
+}
+.size_down_plugin {
+	width: 14px;
+	height: 12px;
+	position: absolute;
+	bottom: 0px;
+	cursor: pointer;
+	left: 0;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}

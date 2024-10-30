@@ -1,0 +1,224 @@
+.sexycontactform_wrapper.sexy_contact_module {
+	width: 100% !important;
+}
+.sexy_contact_module .sexycontactform_title {
+	font-size: 22px !important;
+	font-weight: normal !important;
+}
+.sexycontactform_wrapper {
+	width: 98%;
+	margin: 15px auto;
+	padding: 0 !important;
+	position: relative !important;
+	float: none !important;
+	
+	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-moz-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-o-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+}
+
+
+
+
+.sexycontactform_pre_text {
+	line-height: 15px !important;
+}
+
+.sexycontactus_field_name {
+	display: block !important;
+	float: none !important;
+}
+
+.sexycontactform_wrapper_inner {
+	position: relative !important;
+}
+
+.sexycontactform_form {
+	display: block !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.sexycontactform_title {
+	margin: 0 0 0 0 !important;
+	font-family: inherit !important;
+	padding: 0 !important;
+	line-height: 25px !important;
+}
+.sexycontactform_send,.sexycontactform_send_new {
+	cursor: pointer !important;
+	outline: none !important;
+	height: auto !important;
+	width: auto !important;
+	line-height: 17px !important;
+
+	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-moz-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-o-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+}
+
+.sexycontactform_field_box {
+	margin: 0 0 10px 0 !important;
+	padding: 0 !important;
+}
+.sexy_contact_module .sexycontactform_field_box {
+	margin: 0 0 5px 0 !important;
+}
+
+.sexycontactform_field_name {
+	display: block !important;
+	padding: 0 !important;
+	float: none !important;
+}
+.sexycontactform_submit_wrapper {
+	position: relative;
+}
+.sexy_contact_module .sexycontactform_send,
+.sexy_contact_module .sexycontactform_send_new {
+	padding: 5px 15px !important;
+}
+.sexycontactform_clear {
+	background: none !important;
+	border: 0 !important;
+	clear: both !important;
+	display: block !important;
+	float: none !important;
+	font-size: 0 !important;
+	list-style: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	overflow: hidden !important;
+	visibility: hidden !important;
+	width: 0 !important;
+	height: 0 !important;
+}
+
+.sexycontactform_loading_wrapper {
+	position: absolute !important;
+	top: 0 !important;
+	left: 0 !important;
+	bottom: 0 !important;
+	right: 0 !important;
+	display: none;
+	z-index: 100 !important;
+
+	background-color: #fff !important;
+}
+
+.sexy_title_holder {
+	clear: both !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	height: 10px !important;
+}
+
+/********************************************************************************************************************INPUT RULES************************************************************************************************************************ */
+.sexy_input_reset {
+	display: block !important;
+	width: auto !important;
+	height: 18px !important;
+	border: none !important;
+	background: none !important;
+	margin: 0 !important;
+	padding: 0  !important;
+	outline: none !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	width: 100% !important;
+
+	box-sizing:border-box !important;
+	-moz-box-sizing:border-box !important; /* Firefox */
+	-webkit-box-sizing:border-box !important;
+
+	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-moz-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-o-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+}
+/*inputs  width and height control ************************************** */
+.sexycontactform_input_element {
+	height: 27px;
+	position: relative !important;
+	display: block !important;
+
+	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-moz-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-o-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+}
+.sexy_contact_module .sexycontactform_input_element {
+	width: auto !important;
+	margin: 0 5px 5px 0 !important;
+}
+
+/************************************************************************ */
+.sexy_input_dummy_wrapper {
+	position: relative;
+	padding: 3px 8px 0px 8px;
+}
+
+.sexy_textarea_reset {
+	display: block !important;
+	float: none !important;
+	background-image: none !important;
+	width: 100% !important;
+	border: none !important;
+	background: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	outline: none !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+
+	box-sizing:border-box !important;
+	-moz-box-sizing:border-box !important; /* Firefox */
+	-webkit-box-sizing:border-box !important;
+}
+/*TEXT area width. height control *********************************************************************************************************************************************** */
+.sexy_textarea_wrapper {
+	/*width: 95% !important;
+	height: 150px !important;*/
+}
+.sexy_textarea {
+	resize: none !important;
+	height: 90%;
+}
+
+.sexycontactform_submit_wrapper {
+}
+/************************************************************************************************************************************************* */
+.sexy_textarea_dummy_wrapper {
+	padding: 5px 8px 8px 8px !important;
+	position: relative !important;
+	height: 100%;
+}
+
+/************************************************************************************************************************************************* */
+.sexy_textarea_extra {
+	display: block !important;
+	float: none !important;
+	background-image: none !important;
+	width: 100% !important;
+	border: none !important;
+	background: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	outline: none !important;
+	-moz-box-shadow: 0px 0px 5px -1px rgba(0,0,0,0.75) !important;
+	-webkit-box-shadow: 0px 0px 5px -1px rgba(0,0,0,0.75) !important;
+	box-shadow: 0px 0px 5px -1px rgba(0,0,0,0.75) !important;
+
+	box-sizing:border-box !important;
+	-moz-box-sizing:border-box !important; /* Firefox */
+	-webkit-box-sizing:border-box !important;
+
+	cursor: pointer !important;
+	outline: none !important;
+	height: auto !important;
+	width: auto !important;
+	line-height: 17px !important;
+
+}
